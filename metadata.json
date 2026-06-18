@@ -1,0 +1,6 @@
+{
+  "name": "Full-Stack Enterprise E-Commerce",
+  "description": "A production-ready e-commerce web application with standard search, cart, checkout with multiple payment methods, order tracking, supportive chat, and a hidden admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
